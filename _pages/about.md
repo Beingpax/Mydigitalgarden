@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+I still have to write About Page. 😅😅 In the mean time you can explore my [[second brain]].
 
-Feel free to tell the world about what you love! 😍
+Also: If you have any ideas, feedback or want to talk, you can text me on [twitter](https://twitter.com/beingPax).
+
