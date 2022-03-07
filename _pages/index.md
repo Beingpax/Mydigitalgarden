@@ -5,18 +5,15 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to my digital garden🌱 or my Second brain🧠
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+This is a place where i share all of my notes. This helps me to share Ideas in progress.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+You are free to roam anywhere from here. Sometimes it might be difficult to comprehend and idea or a notes. It's because these notes are not written for you. They are written for myself. To aid my thinking, to help me learn more, to create and explore ideas.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
+- How to navigate my Second Brain?
+  - There's no starting point to start. Here's a good place to start. You can dive deep inside from here.
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+[[Books📚]]
+
+[[Courses💻]]
