@@ -2,7 +2,6 @@ $color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
-$color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -31,7 +30,7 @@ time {
 
 footer {
   margin: 2em 0;
-  font-size: 0.8em;
+  font-size: 1.3em;
   color: mix($color-text, white, 80%);
   padding-top: 1em;
 }
@@ -48,7 +47,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: $color-box-background;
+  background: #42e6ff;
   border-radius: $border-radius;
 
   p {
@@ -79,7 +78,7 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
+  border-bottom: 3px solid $color-border;
   color: $color-primary;
   &:hover {
     color: black !important;
@@ -122,7 +121,7 @@ nav {
 }
 
 .backlink-box {
-  background: $color-box-background;
+  background: #eaffba;
   padding: 1em;
   border-radius: $border-radius;
 }
