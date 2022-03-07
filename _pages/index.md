@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-<link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
+<link rel="shortcut icon" type="image/png" href="https://prakashjoshipax.com/wp-content/uploads/2022/03/Seedling.png">
 
 # Hi! I'm Pax🥬
 
