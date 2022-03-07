@@ -4,6 +4,8 @@ title: Home
 id: home
 permalink: /
 ---
+<link rel="shortcut icon" type="image/png" href="assets/favicon.png"
+
 # Hi! I'm Pax🥬
 
 ### Welcome to my digital garden🌱 or my Second brain🧠
