@@ -1,4 +1,4 @@
-Title: Ship 30 for 30- 10 Days Course 
+ Title: Ship 30 for 30- 10 Days Course 
 Source: Newsletter
 Author: Dickie Bush
 Type: #fleetingnote #todevelop 

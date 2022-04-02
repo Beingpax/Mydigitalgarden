@@ -6,4 +6,4 @@
 
 ---
 - 
-- [[Risk Management and Trading Psychology]]
+- [[@ Risk Management and Trading Psychology]]

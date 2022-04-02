@@ -146,34 +146,6 @@ We have raised the level and average of knowledge beyond any age in history.
 The historian will not mourn because he can see no meaning in human existence except that which man puts into it; letit be our pride that we ourseleved may put meaning into our lives, and sometimes a significance that transcend death. If a man is fortunatem he will, before he dies gather up as much as he can of his civilized herigtage and transmit it to his children. And to his final breath he will be grateful for this inexhaustible legacy, knowing that it is our nourishing mother and our lasting life.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 > Educate yourself so that you can be better. Train yourself so that your future generations can be better.
 
 

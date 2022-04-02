@@ -19,8 +19,8 @@ Have a strict plan. Practice. Backtest. Do your work. Be disciplined about your 
 
 
 
-
-
-
 You don't need to trade every time. The best strategy is to do nothing sometimes. Trade and lose with a high-quality setup instead of winning an low-quality setup.
 - **Take Right trades** 
+
+
+

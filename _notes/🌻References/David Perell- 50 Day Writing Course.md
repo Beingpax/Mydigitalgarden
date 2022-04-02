@@ -1,5 +1,5 @@
 **Source:** David Perell
-
+ 
 ----
 - Preparing to write
 	- Day 1: Write for yourself

@@ -37,7 +37,9 @@
 
 > If its  good trade, try to make it a great trade. If its a bad trade, minimize losses.
 
-When people start blaming government and policies, its  beginning of a bear market. When everyone talks about the market, its exactly when the market will reverse.
+> When people start blaming government and policies, its  beginning of a bear market. When everyone talks about the market, its exactly when the market will reverse.
+
+> The faster you want to make money, the quicker you will lose everything.
 
 ----
 Type: [[Quotes]] [[Trading]] [[💹Stock Market]]

@@ -58,7 +58,8 @@
 
 > - The less people know, the more they are willing yo give advice on.
 
-> - “If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent because your personal experiences alone aren't broad enough to sustain you.” - Jim Mattis
+>  “If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent because your personal experiences alone aren't broad enough to sustain you.” - Jim Mattis
+>  “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss
 
 
 
