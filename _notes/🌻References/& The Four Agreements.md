@@ -74,7 +74,7 @@ All the suffering that you have to go through are you are going right now is roo
 
 The thing about making assumptions is that we misinterpret everything and misunderstand everything. **Confirmation bias is a real thing.** We only see what we want to see and hear. What we want to hear. 
 
-We don’t perceive things as they are, rather we interpret reality on the basis of what we want to believe. 
+We don’t perceive things as they are, rather we interpret reality on the basis of what we want to. 
 
 We make an agreement that everyone sees life the way we do. But that's not true. Everyone views the world differently.
 

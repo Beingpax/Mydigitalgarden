@@ -19,5 +19,7 @@ Notion= Database, Plannning and Organization
 Pocket= Read later
 Readwise= Syncing Highlights
 
+Think of things as an ecosystem that works together. Each piece of software complements the other.
+
 ----
 

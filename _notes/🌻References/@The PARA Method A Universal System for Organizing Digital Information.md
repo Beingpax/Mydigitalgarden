@@ -1,6 +1,6 @@
 **Source:**  https://fortelabs.co/blog/para/
 **Author:** Tiago Forte
-**Type:** #litnote #todevelop 
+**Type:** #litnote 
 **Topics:** [[Build a second brain]]
 
 ----

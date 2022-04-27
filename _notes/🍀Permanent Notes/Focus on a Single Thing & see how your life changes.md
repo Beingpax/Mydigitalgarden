@@ -1,5 +1,5 @@
 
-**Reference:** [[202108282106-Focus one Thing at a Time]]
+**Reference:** [[Focus one Thing at a Time]]
 **Type:** #permanentnote 
 **Topics:** [[Productivity]] [[Focus]] [[Personal Development]]
 **Related:**

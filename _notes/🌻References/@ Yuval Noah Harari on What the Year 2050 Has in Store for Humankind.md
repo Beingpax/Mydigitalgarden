@@ -1,6 +1,6 @@
 
 **Source:** https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century
-**Type:** #litnote #todevelop 
+**Type:** #litnote
 **Topics:** [[Future]]
 
 ----
@@ -31,7 +31,7 @@
 
 In the past, you follow adults not now. The adults don't understand the world.
 
-Technology is not bad. It can help. But its not here to help. The model of internet or especially technology is to help you.
+Technology is not bad. It can help. But its not here to help. The model of internet or especially technology is not to help you.
 - Giving too much power to technology gurantees a life of misery.
 - If you don't know what you want in life, technology can shape your life and take control.
 You will serve technology instead of it serving you.

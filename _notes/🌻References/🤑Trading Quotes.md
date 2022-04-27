@@ -41,5 +41,8 @@
 
 > The faster you want to make money, the quicker you will lose everything.
 
+> The money you lose on the market is the tax you pay market for your learning. 
+> “People quietly buy when the market is red, and loudly sell when the market is green. Take note of this and trade accordingly.”
+
 ----
 Type: [[Quotes]] [[Trading]] [[💹Stock Market]]

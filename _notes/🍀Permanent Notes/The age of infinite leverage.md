@@ -10,6 +10,6 @@ Unlike traditional leverage through labour and capital, technology sits in our l
 
 Being permissionless and the ability to scale at large levels, technology has helped millions of people.
 
-Your judgement is better than how hard you work. 
+Your judgement is more important than how hard you work. 
 
 If you leverage your work, you can outwork the non-leveraged worker by 1000 folds.

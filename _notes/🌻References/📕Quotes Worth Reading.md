@@ -59,7 +59,18 @@
 > - The less people know, the more they are willing yo give advice on.
 
 >  “If you haven't read hundreds of books, you are functionally illiterate, and you will be incompetent because your personal experiences alone aren't broad enough to sustain you.” - Jim Mattis
+
+
 >  “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.” — Dr. Seuss
+
+
+>  None of us are getting out of here alive. So please stop treating yourself like an after thought. Eat the delicious food. Walk in the sunshine. Jump in the ocean. Say the truth that you're carrying in your heart like hidden treasure. Be silly. Be Kind. Be weird. There's no time for anything else.- Christopher Walken
+
+
+>  " If you knew how quickly people forget the dead, you will stop living to impress people."- Christopher Walken
+
+
+> "Pain will follow him forever who will run from it."
 
 
 
