@@ -34,3 +34,5 @@ This is a place where I share all of my notes. Most of these notes are my ideas 
 - You are free to roam anywhere from here. But remember, some ideas or notes might be difficult to understand. It's because **these notes are not written for you**. They are written for myself. To aid and evolve my thinking, to help me learn, to create and explore ideas.
 
 > The purpose of writing and publishing these notes is to practice [[Learning in public]] & [[building in public]].
+
+[[Dashboard]]
